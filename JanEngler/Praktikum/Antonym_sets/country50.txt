@@ -1,13 +1,10 @@
 east west
 north south
-
 europa asia
 america eurasien
 africa eurasien
 australia eurasien
-
 scandinavian baltic
-
 large small
 big tiny
 long wide
@@ -19,19 +16,14 @@ grey blue
 calm busy
 cosmopolitan limited
 touristy limited?
-
-
 america russia
 america china
 russia china
 latino hispanic
-
 english russian
 english chinese
 english spanish
 spanish portuguese
-latin 
-
 developed undeveloped
 first third
 poor rich
@@ -39,15 +31,22 @@ civilized uncivilized
 modern traditional
 city land
 farming development
-
-
 catholic muslim
 catholic buddhism
 hindi muslim
-
-
 democratic monarchic
-
 hot cold
 tropical mediterane
 desert vegetation
+potato rice
+ocean land
+arctic southern
+atlantic pacific
+island neighbor
+flat mountain
+dry humid
+export import
+banking agriculture
+coast border
+port airport
+schengen monarchy
