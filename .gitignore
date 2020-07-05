@@ -1,0 +1,6 @@
+# models
+*.bin
+# dataset
+*.bz2
+
+*.npy
