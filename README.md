@@ -1,5 +1,6 @@
 ## Semantic-Differentials-for-Wikipedia-using-the-POLAR-Framework
 **RWTH ForschungPraktikum CSSH**
+----
 The goal of our project is to produce word embeddings from a Wikipedia dataset, and to apply the *POLAR framework* to different categories of words (e.g. Countries, Food, Music, etc.) in order to analyse the semantic associations behind concepts on Wikipedia.
 The *POLAR framework* is a method that enables interpretability for pre-trained word embeddings by making use of *semantic differentials*.
 The semantics of a word can be measured using *semantic differentials* by analysing its position on a scale between a word and its antonym.
